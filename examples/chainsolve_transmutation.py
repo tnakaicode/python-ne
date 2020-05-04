@@ -61,5 +61,5 @@ tm = Transmuter(phi=phi, tol=tol, log=sys.stdout)
 t1 = time.time()
 out = tm.transmute(inp, t=t_sim)
 dt = time.time() - t1
-print 'Transmutation time: {0}'.format(dt)
+print ('Transmutation time: {0}'.format(dt))
 
