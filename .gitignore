@@ -1,3 +1,14 @@
+# VSCode
+.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc[cod]
+
+# Build
+build/*
+
 # Ignore possible build & documentation
 docs/_build/
 build/
